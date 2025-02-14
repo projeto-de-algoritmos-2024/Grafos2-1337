@@ -1,44 +1,29 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+ # Grafos2-1337
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 58<br>
+**Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1031238  |  Victor Augusto de Sousa Câmara |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Questões de grafos feitas no Leetcode
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+[2203. Minimum Weighted Subgraph With the Required Paths - Dificil](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/?envType=problem-list-v2&envId=graph&difficulty=HARD)
+![image](https://github.com/user-attachments/assets/49870dbb-2fe2-42c0-b83d-36f14ea4b51d)
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+[2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
+![image](https://github.com/user-attachments/assets/9564dffe-c41f-444e-b6db-853ca532b96a)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+[3123. Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)
+![image](https://github.com/user-attachments/assets/f26b82b9-636f-4525-aaba-a76428a8a3af)
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+## [video
+](https://drive.google.com/drive/u/1/folders/1WZg5Z6XQhvX6OAd1R_0JE9sWQEiHJfWA)
 
 
 
